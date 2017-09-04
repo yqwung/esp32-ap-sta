@@ -18,4 +18,5 @@ IDF_PATH = /home/wang/share/esp32/esp-idf-v2.1
 #define ESP32_AP_SSID           "espwifi"      // 设置wifi名
 #define ESP32_AP_PASS           "esp123456"    // 设置的wifi 密码必须大于等于8个字符
 </code></pre>
-3 make编译
+3 make编译<br />
+首次编译会出现配置菜单，可以选择默认配置，直接选择“EXIT”跳过
